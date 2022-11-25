@@ -1,0 +1,3 @@
+﻿unity.obj : error LNK2019: unresolved external symbol setUp referenced in function UnityDefaultTestRun
+unity.obj : error LNK2019: unresolved external symbol tearDown referenced in function UnityDefaultTestRun
+E:\dev\C++ Projects\tdd-for-embedded\Hello World\x64\Debug\Hello World.exe : fatal error LNK1120: 2 unresolved externals
